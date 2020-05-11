@@ -1,5 +1,6 @@
 # HIV_Smokers
-Using DMRcate to get the differentially methylated regions for the Smokers and Non Smokers HIV patients, and using these sites to predict the poor outcomes based on the VACS index.  
+Using DMRcate to get the differentially methylated regions for the Smokers and Non Smokers HIV patients, and using these sites to predict the poor outcomes based on the VACS index.
+For more info visit https://paarthparekh.github.io/DMR
 ## References:
 1. Zhang, X., Hu, Y., Aouizerat, B.E. et al. Machine learning selected smoking-associated DNA methylation signatures that predict HIV prognosis and mortality. Clin Epigenet 10, 155 (2018). https://doi.org/10.1186/s13148-018-0591-z <br>
 2. Brown, S. T., Tate, J. P., Kyriakides, T. C., Kirkwood, K. A., Holodniy, M., Goulet, J. L., Angus, B. J., Cameron, D. W., Justice, A. C., & OPTIMA Team (2014). The VACS index accurately predicts mortality and treatment response among multi-drug resistant HIV infected patients participating in the options in management with antiretrovirals (OPTIMA) study. PloS one, 9(3), e92606. <br>
